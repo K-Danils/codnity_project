@@ -65,4 +65,4 @@ To run the project you must have python version >= 3.9.x and npm version >= 8.1.
 	- Now you will have the react app, containing all the scrapped data, start on your default browser, if not, it can be accessed at http://localhost:3000. If data is not being displayed, make sure you followed Backend setup instructions and flask app is running.
 
 
-	- 
+	
