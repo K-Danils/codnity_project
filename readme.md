@@ -8,7 +8,7 @@ To run the project you must have python version >= 3.9.x and npm version >= 8.1.
 - Clone/Download all the files in git repository.
 - Navigate to the project folder via terminal/CMD:
 		
-		cd path/to/project/Codnity_Project 
+		cd path/to/project/codnity_project 
 
  - Import Database located in project folder (codnity_articles.sql) into your sql server.
 
