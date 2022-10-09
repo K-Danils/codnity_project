@@ -40,7 +40,7 @@ To run the project you must have python version >= 3.9.x and npm version >= 8.1.
 	- Navigate to the src folder :
 
 			cd src
-	- To run flask service, simply type:
+	- To run flask service, simply type (py for windows, python3 for MacOs/Linux):
 	
 			py main.py
 		After which the backend service will be active and accessible on localhost port 5000, it only has one endpoint "/get-articles", which returns dictionary containing id, title, link, points, date_created.
